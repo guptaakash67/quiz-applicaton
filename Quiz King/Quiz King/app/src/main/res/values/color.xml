@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<!--    <color name="colorPrimary">#01E1E1</color>
+    <color name="colorPrimaryDark">#00AEAE</color>
+    <color name="colorAccent">#01E1E1</color>
+    <color name="txt_color">#121149</color>
+    <color name="bg_color">#80f0f0</color>
+    <color name="right_dark">#ed2a2a</color>
+    <color name="right_light">#e9605f</color>
+    <color name="wrong_dark">#22af4a</color>
+    <color name="wrong_light">#22e357</color>
+    &lt;!&ndash; <color name="Primarylight">#83D6FC</color>
+     <color name="Primarycolor">#D12C51</color>
+     <color name="Primarydark">#0088FF</color>&ndash;&gt;
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="title_color">#ffffffff</color>
+    <color name="transparent">#00000000</color>-->
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="colorPrimary">#FF83AD</color>
+    <color name="colorPrimaryDark">#AA003A</color>
+    <color name="colorAccent">#FF4987</color>
+    <color name="txt_color">#ffffff</color>
+    <color name="right_dark">#ed2a2a</color>
+    <color name="right_light">#e9605f</color>
+    <color name="wrong_dark">#22af4a</color>
+    <color name="wrong_light">#22e357</color>
+    <color name="bottom_bg_color">#42b2ea</color>
+
+    <color name="dark_color">#1688c1</color>
+    <color name="light_black">#191919</color>
+</resources>

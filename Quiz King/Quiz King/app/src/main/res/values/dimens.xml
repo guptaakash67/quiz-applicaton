@@ -1,0 +1,16 @@
+<resources>
+
+    <dimen name="titlebar_height">50dip</dimen>
+    <dimen name="view_left_right_margin">10dip</dimen>
+    <dimen name="divider_height">0.5dip</dimen>
+    <dimen name="left_rigth_margin_score_button">10dp</dimen>
+    <!-- Game OVer Screen -->
+    <!-- Button -->
+    <!-- End Button -->
+    <!-- Question Background -->
+    <!-- End Question Background -->
+    <!-- TextSize -->
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="progress_h_w">60dp</dimen>
+
+</resources>

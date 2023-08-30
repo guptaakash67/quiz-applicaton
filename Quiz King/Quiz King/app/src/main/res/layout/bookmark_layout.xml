@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/cardView"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardUseCompatPadding="true"
+   >
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/cardview_bg"
+    android:padding="5dp">
+    <TextView
+        android:id="@+id/tvNo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/txt_color"
+        android:text="1."
+        android:textStyle="bold"
+        android:layout_margin="5dp"/>
+    <TextView
+        android:id="@+id/tvQue"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/tvNo"
+        android:textColor="@color/txt_color"
+        android:layout_margin="5dp"
+        android:text="hh jaahdj ajfj fjjdak kzjkj kzjk "/>
+    <TextView
+        android:id="@+id/tvAns"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tvQue"
+        android:layout_toRightOf="@+id/tvNo"
+        android:textColor="@color/txt_color"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
+        android:text=" Ans : ajksj "
+        android:layout_margin="5dp"/>
+    <ImageView
+        android:id="@+id/remove"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/ic_delete"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/tvQue"
+      android:padding="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_alignParentEnd="true"/>
+</RelativeLayout>
+</androidx.cardview.widget.CardView>

@@ -1,0 +1,7 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="progress_h_w">100dp</dimen>
+    <dimen name="result_circle">120dp</dimen>
+    <dimen name="play_margin">10dp</dimen>
+</resources>

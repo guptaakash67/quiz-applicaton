@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Quiz King/Quiz King/app/src/main/res/layout/actionbar_layout.xml" value="0.11639492753623189" />
+        <entry key="..\:/Quiz King/Quiz King/app/src/main/res/layout/activity_bookmark_list.xml" value="0.11639492753623189" />
+        <entry key="..\:/Quiz King/Quiz King/app/src/main/res/layout/activity_instruction.xml" value="0.11639492753623189" />
+        <entry key="..\:/Quiz King/Quiz King/app/src/main/res/layout/activity_menu_home.xml" value="0.11639492753623189" />
+        <entry key="..\:/Quiz King/Quiz King/app/src/main/res/layout/activity_review.xml" value="0.11639492753623189" />
+        <entry key="..\:/Quiz King/Quiz King/app/src/main/res/layout/activity_setting.xml" value="0.11639492753623189" />
+        <entry key="..\:/Quiz King/Quiz King/app/src/main/res/layout/bookmark_layout.xml" value="0.11639492753623189" />
+        <entry key="..\:/Quiz King/Quiz King/app/src/main/res/layout/bookmark_list.xml" value="0.11639492753623189" />
+        <entry key="..\:/Quiz King/Quiz King/app/src/main/res/layout/category.xml" value="0.11639492753623189" />
+        <entry key="..\:/Quiz King/Quiz King/app/src/main/res/layout/complete.xml" value="0.18" />
+        <entry key="..\:/Quiz King/Quiz King/app/src/main/res/layout/dialog_layout.xml" value="0.11639492753623189" />
+        <entry key="..\:/Quiz King/Quiz King/app/src/main/res/layout/fragment_category.xml" value="0.11639492753623189" />
+        <entry key="..\:/Quiz King/Quiz King/app/src/main/res/layout/fragment_complete.xml" value="0.11639492753623189" />
+        <entry key="..\:/Quiz King/Quiz King/app/src/main/res/layout/fragment_mainmenu.xml" value="0.11639492753623189" />
+        <entry key="..\:/Quiz King/Quiz King/app/src/main/res/layout/fragment_play.xml" value="0.11639492753623189" />
+        <entry key="..\:/Quiz King/Quiz King/app/src/main/res/layout/instruction.xml" value="0.25" />
+        <entry key="..\:/Quiz King/Quiz King/app/src/main/res/layout/layout.xml" value="0.11639492753623189" />
+        <entry key="..\:/Quiz King/Quiz King/app/src/main/res/layout/layout_category.xml" value="0.11639492753623189" />
+        <entry key="..\:/Quiz King/Quiz King/app/src/main/res/layout/lock_fragment.xml" value="0.11639492753623189" />
+        <entry key="..\:/Quiz King/Quiz King/app/src/main/res/layout/lock_item.xml" value="0.11639492753623189" />
+        <entry key="..\:/Quiz King/Quiz King/app/src/main/res/layout/mainmenu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Quiz King/Quiz King/app/src/main/res/layout/note_dialog_layout.xml" value="0.11639492753623189" />
+        <entry key="..\:/Quiz King/Quiz King/app/src/main/res/layout/play.xml" value="0.11639492753623189" />
+        <entry key="..\:/Users/Akash Gupta/Desktop/Final Year Project/Quiz King/Quiz King/app/src/main/res/layout/activity_menu_home.xml" value="0.2907608695652174" />
+        <entry key="..\:/Users/Akash Gupta/Desktop/Final Year Project/Quiz King/Quiz King/app/src/main/res/layout/bookmark_layout.xml" value="0.28442028985507245" />
+        <entry key="..\:/Users/Akash Gupta/Desktop/Final Year Project/Quiz King/Quiz King/app/src/main/res/layout/bookmark_list.xml" value="0.2857789855072464" />
+        <entry key="..\:/Users/Akash Gupta/Desktop/Final Year Project/Quiz King/Quiz King/app/src/main/res/layout/category.xml" value="0.2857789855072464" />
+        <entry key="..\:/Users/Akash Gupta/Desktop/Final Year Project/Quiz King/Quiz King/app/src/main/res/layout/complete.xml" value="0.2857789855072464" />
+        <entry key="..\:/Users/Akash Gupta/Desktop/Final Year Project/Quiz King/Quiz King/app/src/main/res/layout/dialog_layout.xml" value="0.2857789855072464" />
+        <entry key="..\:/Users/Akash Gupta/Desktop/Final Year Project/Quiz King/Quiz King/app/src/main/res/layout/instruction.xml" value="0.2857789855072464" />
+        <entry key="..\:/Users/Akash Gupta/Desktop/Final Year Project/Quiz King/Quiz King/app/src/main/res/layout/layout.xml" value="0.2857789855072464" />
+        <entry key="..\:/Users/Akash Gupta/Desktop/Final Year Project/Quiz King/Quiz King/app/src/main/res/layout/layout_category.xml" value="0.28442028985507245" />
+        <entry key="..\:/Users/Akash Gupta/Desktop/Final Year Project/Quiz King/Quiz King/app/src/main/res/layout/lock_fragment.xml" value="0.2857789855072464" />
+        <entry key="..\:/Users/Akash Gupta/Desktop/Final Year Project/Quiz King/Quiz King/app/src/main/res/layout/lock_item.xml" value="0.2857789855072464" />
+        <entry key="..\:/Users/Akash Gupta/Desktop/Final Year Project/Quiz King/Quiz King/app/src/main/res/layout/mainmenu.xml" value="0.2907608695652174" />
+        <entry key="..\:/Users/Akash Gupta/Desktop/Final Year Project/Quiz King/Quiz King/app/src/main/res/layout/note_dialog_layout.xml" value="0.2857789855072464" />
+        <entry key="..\:/Users/Akash Gupta/Desktop/Final Year Project/Quiz King/Quiz King/app/src/main/res/layout/play.xml" value="0.2857789855072464" />
+        <entry key="..\:/Users/Akash Gupta/Desktop/Final Year Project/Quiz King/Quiz King/app/src/main/res/layout/review.xml" value="0.2857789855072464" />
+        <entry key="..\:/Users/Akash Gupta/Desktop/Final Year Project/Quiz King/Quiz King/app/src/main/res/layout/setting.xml" value="0.2857789855072464" />
+        <entry key="..\:/Users/Akash Gupta/Desktop/Final Year Project/Quiz King/Quiz King/app/src/main/res/menu/menu.xml" value="0.3619791666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
